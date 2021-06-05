@@ -4,7 +4,7 @@
 #									     #
 ##############################################################################
 
-background           = magenta	default
+background           = magenta	default bold
 frame                = magenta  default	bold
 window_title         = white  	default bold
 directory            = white 	default	bold
